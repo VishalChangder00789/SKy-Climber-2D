@@ -28,7 +28,7 @@ Toby is a small fox got seperated from his family and the objective is to climb 
 * Dedicated GPU (Nvidia or AMD) Recomended.
 
 # Getting Started
-Start by downloading the project from given link at the bottom.
+Start by downloading the project from given link at the top.
 Unity 2018 with (LTS) recomended.
 
 * Visual Studio 2019 or 2019 is recommended, It is made to run on Windows OS (8,10).
