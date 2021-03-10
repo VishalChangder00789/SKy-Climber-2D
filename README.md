@@ -47,9 +47,9 @@ Unity 2018 with (LTS) recomended.
 # Short term goals :
 Note: this is subject to change at any time!
 
-* Create more levels on this project\n.
-* Implement animated story line\n.
-* Complete rest of the game project\n.
+* Create more levels on this project.
+* Implement animated story line.
+* Complete rest of the game project.
 
 
 
