@@ -10,6 +10,12 @@ The main aim behind this game was to implement the basic knowledge of programmin
 
 # StoryLine 
 Toby is a small fox got seperated from his family and the objective is to climb up all the platforms to reach his family
+# System Requirements
+* Windows 10 pro
+* Unity 2018(LTS)
+* Visual Studios 17 or above
+* Core i5 processors 7th gen or above.
+* Dedicated GPU (Nvidia or AMD) Recomended.
 
 # Getting Started
 Start by downloading the project from given link at the bottom.
