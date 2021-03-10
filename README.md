@@ -1,3 +1,4 @@
+![](GameCollage.png)
 # Sky-Climber-2D
 * Sky Climber 2D is a platformer game made with Unity Game Engine. 
 * Assets are completely taken from Unity Asset store.
